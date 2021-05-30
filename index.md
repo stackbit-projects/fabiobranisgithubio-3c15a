@@ -37,7 +37,7 @@ sections:
       I\`m reach my actual tech skills, just because I think that my history is
       about overcoming in personal and professional life.
     actions: []
-    
+    image: images/FB_IMG_1621195658660_1.jpg
 seo:
   title: Stackbit Fresh Theme
   description: The preview of the Fresh theme
