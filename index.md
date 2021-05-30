@@ -12,18 +12,18 @@ sections:
     type: section_content
     title: About
     content: >
-      I am a backend software engineer with some abilities in front end. I do
-      prefer do do not state myself as a fullstack, but I like to do some works
-      with React or Vue in front end.
-
-
-      My main abilities are focused in backend, so I really love to work with
-      node.js and I worked for a long time with PHP.
+      I am a backend software engineer with some abilities in front end. My main
+      abilities are focused in backend, so I really love to work with node.js
+      and I worked for a long time with PHP.
 
 
       I have some experience with other backend tech stacks, such Java and .NET.
       But to be very honest I do prefer to work with node and I have a huge
       interest in learn more about Golang.
+
+
+      I do prefer do do not state myself as a fullstack, but I like to do some
+      works with React or Vue in front end.
 
 
       Take a look in the skills section to learn more about what I can do.
