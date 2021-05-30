@@ -23,10 +23,7 @@ sections:
       I have some experience with other backend tech stacks, such Java and .NET.
       But to be very honest I do prefer to work with node and I have a huge
       interest in learn more about Golang.
-    actions:
-      - label: Contact Me
-        url: /contact
-        style: button
+    actions: []
 seo:
   title: Stackbit Fresh Theme
   description: The preview of the Fresh theme
