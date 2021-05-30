@@ -37,6 +37,22 @@ sections:
       I\`m reach my actual tech skills, just because I think that my history is
       about overcoming in personal and professional life.
     actions: []
+  - title: lorem-ipsum
+    section_id: lorem-ipsum
+    image_alt: lorem-ipsum
+    content: >-
+      ## Lorem ipsum
+
+
+      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+      - Lorem ipsum
+
+      - dolor sit amet
+    actions: []
+    type: section_content
 seo:
   title: Stackbit Fresh Theme
   description: The preview of the Fresh theme
