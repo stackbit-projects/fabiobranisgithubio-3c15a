@@ -1,5 +1,5 @@
 ---
-title: About Me
+title: Home
 hide_title: true
 sections:
   - section_id: hero
