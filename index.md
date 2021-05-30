@@ -6,7 +6,7 @@ sections:
     type: section_hero
     title: 'Hi, I''m Fábio Branis'
     content: |
-      I am a software developer. 
+      I am a brazilian software engineer
     actions: []
   - section_id: about
     type: section_content
