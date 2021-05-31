@@ -2,8 +2,7 @@
 title: My Skills
 hide_title: false
 sections:
-  - section_id: A short brief story about my skills
-    image_alt: lorem-ipsum
+  - image_alt: lorem-ipsum
     content: >-
       ## Lorem ipsum
 
