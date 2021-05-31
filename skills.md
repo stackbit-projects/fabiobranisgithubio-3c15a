@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: My S
 hide_title: true
 excerpt: lorem-ipsum
 sections:
