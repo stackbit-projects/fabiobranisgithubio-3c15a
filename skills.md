@@ -97,17 +97,28 @@ sections:
   - title: javascript
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
+    content: >+
+      ## For front end
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      I started to work with javascript in my first job.
 
 
-      - Lorem ipsum
+      The very first framework that I came into contact with was ExtJS. But it
+      was a long time ago, honestly I can’t remember a thing.
 
-      - dolor sit amet
+
+      But then I knew jQuery. jQuery helped me a lot, to deliver projects and to
+      avoid learning vanilla js and it’s advantages, disadvantages and pitfalls
+      .
+
+
+      After jQuery, I decided to learn the real JS with node, just because
+      backend is my real focus. So I heard about webpack. From webpack to Vue.js
+      was very fast to move, because I used webpack and Vue together. After vue,
+      I started to work in a company that used React as the front end lib for
+      the admin panels. 
+
     actions: []
     type: section_content
 seo:
