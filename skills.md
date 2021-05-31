@@ -1,7 +1,6 @@
 ---
 title: My Skills
 hide_title: false
-excerpt: Here you can see
 sections:
   - title: lorem-ipsum
     section_id: lorem-ipsum
