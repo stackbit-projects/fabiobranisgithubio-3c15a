@@ -70,7 +70,7 @@ sections:
       and jobs pipelines.
     actions: []
     type: section_content
-  - title: lorem-ipsum
+  - title: PHP
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: >-
