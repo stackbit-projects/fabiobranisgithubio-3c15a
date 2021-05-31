@@ -62,6 +62,12 @@ sections:
 
 
       *   Fullstack applications (some freelancer jobs)
+
+
+      A important thing to be mentioned here is, I use node with SQL and noSQL
+      databases. Also, I like to use redis as a cache for my apps. I know some
+      good patterns such circuit breakers and other cool things, like functions
+      and jobs pipelines.
     actions: []
     type: section_content
 seo:
