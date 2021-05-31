@@ -24,7 +24,7 @@ sections:
       some servers for my apps)
     actions: []
     type: section_content
-  - title: Javascript
+  - title: Node.js
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: >
