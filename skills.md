@@ -31,13 +31,37 @@ sections:
       ## My actual backend stack
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      I have to say, I really love the simplicity of node. I know that node is
+      not the best bet for heavy processing tasks which I need a lot of threads,
+      but for web based applications or even workers for parsing something to
+      deliver transformations or even content to be digested in other
+      applications, I think node is very suitable.
 
 
-      *   Lorem ipsum
+      Currently I\`m not used to apply Typescript, but I have no problem working
+      with a typed project, because I know how to work with this kind of
+      approach thanks my Java background.
 
-      *   dolor sit amet
+
+      The kind of projects I worked with node?
+
+
+      *   Backend apis as microservices
+
+
+      *   Web scrappers (for apps which doesn’t had any api or even to get some
+      data from websites)
+
+
+      *   Workers to parse some data to deliver for partners (heavy use of
+      streams with back pressure control)
+
+
+      *   ETL applications for people which doesn’t want to use proper ETL
+      solutions in edge cases
+
+
+      *   Fullstack applications (some freelancer jobs)
     actions: []
     type: section_content
 seo:
