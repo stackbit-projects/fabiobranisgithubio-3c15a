@@ -1,5 +1,5 @@
 ---
-title: My S
+title: My Skills
 hide_title: true
 excerpt: lorem-ipsum
 sections:
