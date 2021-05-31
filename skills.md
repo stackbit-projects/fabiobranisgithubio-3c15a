@@ -73,8 +73,8 @@ sections:
   - title: PHP
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
-    content: >+
-      ## A later love, never forget
+    content: >
+      ## An old love, never forget
 
 
       PHP was my main stack for at least 5 years. I really love the simplicity
@@ -92,7 +92,6 @@ sections:
       My main achievement with PHP is an ERP. Believe me, this project was big.
       Check out my portfolio section to see more details about this challenging
       project.
-
     actions: []
     type: section_content
 seo:
